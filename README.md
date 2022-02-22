@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Mern Stack.
+- 🔭 I’m currently working on Mern Stack and Android Development.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms and Android Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** and **Internship Opportunities**
 
