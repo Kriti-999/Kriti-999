@@ -28,7 +28,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://api.jquery.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" width="48" height="48"/> </a> 
+    <a href="https://api.jquery.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" width="48" height="48"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
