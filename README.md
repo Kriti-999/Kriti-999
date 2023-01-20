@@ -7,11 +7,9 @@
 ## Portfolio Link-https://kriti-999.github.io/kritiPortfolio/
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Mern Stack and Android Development.
+- 🔭 I’m currently working on Mern Stack and Blockchain Development.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Android Development.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects** and **Internship Opportunities**
+- 🌱 I am interested in development and have contributed to some open-source organisations . I also enjoy doing problem- solving.
 
 - 📫 How to reach me : **kritipashine2030@gmail.com**
 
@@ -37,15 +35,15 @@
 
 <p align="center">
     <a href="https://Kriti-999/Kriti-999/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kriti-999&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kriti Pashine streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kriti-999&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Kriti-999/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriti-999&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Kriti-999/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriti-999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Kriti-999/github-readme-stats"><img alt="Kriti Pashine Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kriti-999&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Kriti-999/github-readme-stats"><img alt="Kriti Pashine  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriti-999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -53,7 +51,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Kriti-999/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kriti-999&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Kriti-999/github-readme-activity-graph"><img alt="Kriti Pashine Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kriti-999&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
